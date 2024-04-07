@@ -1,2 +1,2 @@
-# Assignment-Repository
-Repository for Assignment!
+# New-Repository
+This repository is just for Practice
